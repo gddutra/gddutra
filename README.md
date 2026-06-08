@@ -2,7 +2,7 @@
 
 Sou Engenheiro de Software e Bacharel em Ciência da Computação. Minha trajetória é marcada pelo desenvolvimento de sistemas corporativos e soluções de back-end, trabalhando fortemente com a lógica de negócios e persistência de dados.
 
-> 💼 **Uma nota sobre meu histórico:** Atuo no mercado de tecnologia desde 2011 (quando iniciei minha jornada no desenvolvimento de software), trabalhando predominantemente em sistemas corporativos internos e proprietários com foco em **Java, Delphi e Oracle PL/SQL**. Por razões de confidencialidade e sigilo industrial das empresas por onde passei, essas soluções permanecem em repositórios privados. 
+> 💼 **Uma nota sobre meu histórico:** Atuo no mercado de tecnologia desde 2011 (quando iniciei minha jornada no desenvolvimento de software), trabalhando predominantemente em sistemas corporativos internos e proprietários com foco em **Java, Delphi, Oracle PL/SQL e Android**. Por razões de confidencialidade e sigilo industrial das empresas por onde passei, essas soluções permanecem em repositórios privados. 
 > 
 > Atualmente, estou utilizando este espaço público no GitHub para documentar minha evolução, novos estudos e o aprofundamento prático no ecossistema moderno de **Java (versões LTS)** e **Spring Boot**.
 
@@ -10,10 +10,10 @@ Sou Engenheiro de Software e Bacharel em Ciência da Computação. Minha trajet�
 
 ## 🛠️ Tecnologias e Competências
 
-* **Linguagens e Ecossistema:** Java, Delphi, PL/SQL
+* **Linguagens e Ecossistemas:** Java, Delphi, PL/SQL, Android (Mobile)
 * **Frameworks em Evolução:** Spring Boot, Spring Data JPA / Hibernate
 * **Banco de Dados:** Oracle SQL e Modelagem de Dados Relacional
-* **Ferramentas & Ambientes:** IntelliJ IDEA, Docker, Git/GitHub, Maven, DBeaver e VS Code (auxiliar)
+* **Ferramentas & Ambientes:** IntelliJ IDEA, Docker, Git/GitHub, Maven, DBeaver e VS Code
 
 ---
 
