@@ -20,10 +20,9 @@ Sou Engenheiro de Software e Bacharel em Ciência da Computação. Minha trajet�
 ## 🚀 O que estou construindo no momento?
 
 ### 🏗️ [Enterprise ERP](https://github.com/gddutra/enterprise-erp)
-Este é o meu projeto principal de estudo e evolução. Estou construindo o núcleo central de um sistema ERP corporativo do zero para consolidar meus conhecimentos em Spring Boot e integração moderna com o Oracle Database via ambientes conteinerizados (Docker). 
+Este é o meu projeto principal de engenharia. Estou construindo o núcleo central de um ecossistema ERP corporativo para consolidar arquiteturas modernas em Spring Boot 3 e integração profissional com o Oracle Database via Docker. 
 
-* **Status atual:** Etapa Zero concluída (Estrutura inicial do projeto, configuração de propriedades e ambiente de banco de dados isolado e seguro localmente). 
-* **Próximo passo:** Desenvolvimento do módulo e regras de negócio para o Cadastro de Clientes.
+* **Diferenciais Técnicos:** O projeto simula o ambiente de grandes corporações através da transição de modelo de dados anêmico para DDD (Domain-Driven Design), isolamento estrito de regras de negócio complexas, e modelagem física aderente às convenções rígidas de governança de dados (DBAs).
 
 ---
 
